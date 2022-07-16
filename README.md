@@ -1,16 +1,8 @@
 # booktickets
 
-A new Flutter project.
+This Project is a simple booking ticket app, focus on using layouts and widgets with friendly and unique interface and some tricks to design and reuse them to avoid hard-coded
 
-## Getting Started
+# Video for app:
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/54074127/179363031-5fd0a62c-4fad-4237-ac91-0e5fdfe7e421.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
